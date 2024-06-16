@@ -1,22 +1,15 @@
 # sql-project-for-data-analysis-2
 What is the Agenda of the project?
-This is the second project in the SQL project series, the first project involved the
-installation of Oracle and the basics of SQL. This project’s Agenda involves Analyzing
-the data using SQL on the Oracle Database Software. Understanding different types of
-Joins(Inner join, Left outer join, Right outer join, Full outer join, Self join), different types
-of Operators(Minus, Union, Union all, Intersect).
-Tech stack:
-● SQL Programming language
-● Oracle SQL Developer
-Key Takeaways:
-● Understanding the project and how to use Oracle SQL Developer
-● Understanding the basics of data analysis, SQL commands, and their application
-● Understanding the use of Oracle SQL Developer
-● Understanding different types of joins.
-● Understanding different types of operators.
-● Understanding the difference between normal queries and ANSI queries.
-● Joining multiple tables.
-● Joining multiple tables using ANSI queries.
-● Understanding the difference between UNION and UNION ALL operators.
-● Understanding the reason behind column ambiguously defined error.
-● Resolve the column ambiguously defined error.
+
+Perform the below analysis:
+
+1. Inner Join: display employee details.
+2. Resolve column ambiguously defined error.
+3. LEFT OUTER JOIN: List down all the departments along with employees working under it.
+4. RIGHT OUTER JOIN: List down all the employees along with department details.
+5. FULL OUTER JOIN: Display all the employee and department records along with missing data.
+6. SELF JOIN: Display employee details along with manager details.
+7. UNION and UNION ALL: Combine locations and non functional locations table.
+8. MINUS and INTERSECT: Find unique and common locations.
+9. Join multiple tables to fetch employee details.
+10. Convert previous query to ANSI join query.
